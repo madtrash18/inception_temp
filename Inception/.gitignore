@@ -1,0 +1,12 @@
+# Enviroment variables
+srcs/.env
+secrets/
+
+#Docker volumes
+/home/*/data/
+
+#System files
+.DS_Store
+*.swp
+*.swo
+*~
